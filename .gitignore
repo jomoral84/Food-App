@@ -1,0 +1,9 @@
+   .DS_Store
+        .babelrc
+        Instructivo Ejecucion.txt
+        dist/
+        node_modules/
+        package-lock.json
+        package.json
+        src/
+        webpack.config.js
