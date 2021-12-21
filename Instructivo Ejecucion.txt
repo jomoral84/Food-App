@@ -1,0 +1,7 @@
+// APP GLOBAL
+// Para una correcta instalacion del servidor nodeJs y componentes seguir los pasos de la clase 133. 
+// Instalar las ultimas versiones de todo.
+
+
+// Para activar el Developer Server y correr la aplicacion se debe ingresar a la consola de node.js
+// y utilizar el comando C:\Users\Jorge\Desktop\Javascript Projects\9-forkify\starter>npm run start
