@@ -14,6 +14,7 @@ import Recipe from './models/Recipe';
 import List from './models/List';
 import Likes from './models/Likes';
 import { elements, renderLoader, clearLoader } from './views/base';
+import { showAlert } from './alerts';
 import * as listView from './views/listView';
 import * as likesView from './views/likesView';
 import * as searchView from './views/searchView';

@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { proxy } from '../config';
+import { showAlert } from '../alerts';
 
 export default class Search {
 
@@ -16,7 +16,7 @@ export default class Search {
 
         } catch (error) {
 
-            alert("Error");
+            showAlert('No se encontro la receta!');
             console.log(error);
         }
     }
